@@ -10,4 +10,4 @@ Currently on a data analysis course.
 ‣ 👩‍🎓 Level 4 in Computing, Level 2 in Cyber Security
 </p>
 <p>
-‣ 🍞 Baking, 🎮 Gaming and 💪 Weighlifting.
+‣ 🍞 Baking, 🎮 Gaming and 💪 Weightlifting.
