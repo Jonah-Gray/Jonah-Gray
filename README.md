@@ -7,7 +7,4 @@ I have a lot of education in software engineering and cyber security and i'm now
  🌱 I’m currently learning Python in my spare time.
 </p>
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/Jonah-Gray"
+
