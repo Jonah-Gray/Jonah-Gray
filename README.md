@@ -6,5 +6,6 @@ I have a lot of education in software engineering and cyber security and i'm now
 <p>
 ‣ 🌱 I’m currently learning Python in my spare time.
 </p>
-
-
+<p>
+‣ 👩‍🎓 Level 4 in Computing, Level 2 in Cyber Security
+</p>
