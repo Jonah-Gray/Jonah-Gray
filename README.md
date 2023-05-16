@@ -1,5 +1,5 @@
 Hi, I'm Jonah! I am a data student based in the UK.
-I have a lot of education in software engineering and cyber security and i'm now currently learning about data.
+Currently on a data analysis course.
 <p>
 ‣ 🔭 Working on adding some more dashboards / projects to my portfolio.
 </p>
