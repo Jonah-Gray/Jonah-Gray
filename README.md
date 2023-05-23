@@ -1,4 +1,3 @@
-#Jonah Gray
 Hi, I'm Jonah! I am a data student based in the UK.
 Currently on a data analysis course.
 <p>
