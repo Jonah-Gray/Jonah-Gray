@@ -1,5 +1,7 @@
-Hi, I'm Jonah! I am a data student based in the UK.
-Currently on a data analysis course.
+<h1> Jonah Gray  </h1>
+Hi , I'm Jonah! I am a data student based in the UK.  
+Currently on a data analysis course. 
+<p> </p>
 <p>
 ‣ 🔭 Working on adding some more dashboards / projects to my portfolio.
 </p>
@@ -11,3 +13,17 @@ Currently on a data analysis course.
 </p>
 <p>
 ‣ 🍞 Baking, 🎮 Gaming and 💪 Weightlifting.
+<p><h2> Languages and Tools </h2></p>
+  <div id="badges">
+  <img src="https://img.shields.io/badge/Excel-017338?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Badge"/>
+  <img src="https://img.shields.io/badge/Word-2b569a?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word Badge"/>
+  <img src="https://img.shields.io/badge/Azure-30a8e7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure Badge"/>  
+  <img src="https://img.shields.io/badge/PowerBi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi Badge"/>
+  <img src="https://img.shields.io/badge/R-b6b8bb?style=for-the-badge&logo=r&logoColor=white" alt="r Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-e48e00?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql Badge"/>
+  <img src="https://img.shields.io/badge/tableau-004281?style=for-the-badge&logo=tableau&Color=white" alt="tableau Badge"/>
+  <img src="https://img.shields.io/badge/html-f9833b?style=for-the-badge&logo=html5&logoColor=white" alt="html Badge"/>
+   
+    
+    
+</div>
