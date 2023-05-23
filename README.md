@@ -21,8 +21,9 @@ Currently on a data analysis course.
   <img src="https://img.shields.io/badge/PowerBi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi Badge"/>
   <img src="https://img.shields.io/badge/R-b6b8bb?style=for-the-badge&logo=r&logoColor=white" alt="r Badge"/>
   <img src="https://img.shields.io/badge/MySQL-e48e00?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql Badge"/>
-  <img src="https://img.shields.io/badge/tableau-004281?style=for-the-badge&logo=tableau&Color=white" alt="tableau Badge"/>
-  <img src="https://img.shields.io/badge/html-f9833b?style=for-the-badge&logo=html5&logoColor=white" alt="html Badge"/>
+  <img src="https://img.shields.io/badge/Tableau-004281?style=for-the-badge&logo=tableau&Color=white" alt="tableau Badge"/>
+  <img src="https://img.shields.io/badge/Html-f9833b?style=for-the-badge&logo=html5&logoColor=white" alt="html Badge"/>
+  <img src="https://img.shields.io/badge/Python-3f7dae?style=for-the-badge&logo=python&logoColor=white" alt="python Badge"/>
    
     
     
