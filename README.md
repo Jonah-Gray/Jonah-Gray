@@ -1,6 +1,6 @@
 <h1> Jonah Gray  </h1>
 Hi , I'm Jonah! I am a data student based in the UK.  
-Currently on a data analysis course. 
+Just finished a data analysis course and currently doing admin for a charity organisation. 
 <p> </p>
 <p>
 ‣ 🔭 Working on adding some more dashboards / projects to my portfolio.
